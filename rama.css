@@ -1,0 +1,27 @@
+.roti{
+background-image: url(""); /* The image used */
+ /* Used if the image is unavailable */
+  height: 100%; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+
+.mawar{
+	width:200px;
+	height:320px;
+}
+
+
+p{
+
+}
+
+body{
+
+}
+
+.list li{
+	float:right;
+}

@@ -1,0 +1,163 @@
+header{
+    background-image: url(member/navbar.png);
+    width: 100%;
+    height: 120px;
+}
+
+.home a{
+    float: right;
+}
+
+.home img{
+    height: 60px;
+    padding: 20px 20px;
+    margin-top: -35px;
+}
+
+.logo img{
+    float: left;
+}
+
+.logo h1{
+    float: left;
+    color: white;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.logo{
+    padding: 20px 20px;
+}
+
+.member {
+    padding-top:20px ;
+    padding-left:60px ;
+    float: left;
+    width: 15%;
+  }
+
+.member img{
+     width: 200px;
+  }
+  
+.foto {
+    position: relative;
+    width: 200px;
+  }
+
+.garis img{
+    width: 100%;
+}
+
+.garis{
+    width: 100%;
+}
+
+
+.konten {
+    background-image: url(member/background.png);
+    width: 100%;
+    height: 600px;
+
+}
+
+.atas{
+    padding-top: 30px;
+}
+
+.garis img{
+    padding-top: 30px;
+}
+
+.bawah{
+    padding-top: 30px;
+}
+
+center{
+    width: 20%;
+    float: left;
+}
+
+.garis{
+    float: left;
+    text-align: center;
+}
+
+.garis img{
+    width: 1.75%;
+    margin-top: -10px;
+    margin-right: 20px;
+}
+
+.konten{
+    height: auto 100%;
+}
+
+.g {
+    margin-top: 15px; 
+    width:100%
+}
+
+@media (max-width:1000px){
+    .member{
+        width:100%;
+        text-align: center;
+        padding-left: 0;
+        line-height: 7;
+    }
+
+    .member img{
+        width: 50%;
+
+    }
+
+    .dewa img{
+        margin-top: 100px;
+    }
+
+    .konten{
+        height: 5730px;
+    }
+
+    .garis img{
+        width: 4%;
+        margin-top: -65px;
+        margin-left: 13px;
+    }
+
+    .g {
+        height:30px;
+        padding-bottom: 30px;
+
+    }
+
+    .logo{
+        padding:40px 40px;
+    }
+
+    .logo img{
+        width: 110px;
+        height: 110px;
+    }
+
+    .logo h1{
+        font-size: 50px;
+        margin-top: 30px;
+    }
+
+    .home{
+        margin-top: -20px;
+
+    }
+
+    .home img{
+        width: 110px;
+        height: 110px;
+    }
+
+    header{
+        background-image: url(member/navbar.png);
+        width: 100%;
+        height: 200px;
+    }
+}
